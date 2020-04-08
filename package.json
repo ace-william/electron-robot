@@ -2,11 +2,6 @@
   "name": "electron-kit",
   "version": "1.0.0",
   "description": "electron kit",
-  "author": {
-    "name": "Githinkcn",
-    "email": "549595297@qq.com",
-    "url": "https://github.com/githinkcn"
-  },
   "main": "./dist/main/main.js",
   "private": true,
   "build": {
